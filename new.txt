@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 NEW 
 MAIN 
+=======
+NEW HERO
+>>>>>>> 1730a05de8ac1e8b3cdafeee6015488462688497
+NEW HERO 
